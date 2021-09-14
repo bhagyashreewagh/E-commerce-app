@@ -19,7 +19,8 @@
   "homepage": "https://github.com/bhagyashreewagh/E-commerce-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
